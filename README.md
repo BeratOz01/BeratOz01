@@ -9,6 +9,8 @@
 
 - 🔭 I’m open to new challenges
 
+- If you know be better, you should check this <a href = "https://github.com/BeratOz01/game-buddies" target = "blank">project</a>. 
+
 - 🌱 I’m currently learning **SQL**
 
 - 💬 Ask me about **React Native and ReactJS**
