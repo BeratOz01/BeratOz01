@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/beratzt86345181" target="blank"><img src="https://img.shields.io/twitter/follow/beratzt86345181?logo=twitter&style=for-the-badge" alt="beratzt86345181" /></a> </p>
 
-- 🔭 I’m currently looking for a job
+- 🔭 I’m open to new challenges
 
 - 🌱 I’m currently learning **SQL**
 
