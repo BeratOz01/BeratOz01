@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehmet Berat Öztürk</h1>
 <h3 align="center">CS student.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=beratoz01&label=Profile%20views&color=0e75b6&style=flat" alt="beratoz01" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beratoz01" alt="beratoz01" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/beratzt86345181" target="blank"><img src="https://img.shields.io/twitter/follow/beratzt86345181?logo=twitter&style=for-the-badge" alt="beratzt86345181" /></a> </p>
