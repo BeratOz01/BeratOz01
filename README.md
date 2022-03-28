@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beratoz01" alt="beratoz01" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/beratzt86345181" target="blank"><img src="https://img.shields.io/twitter/follow/beratzt86345181?logo=twitter&style=for-the-badge" alt="beratzt86345181" /></a> </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
